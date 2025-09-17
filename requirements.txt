@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-experimental
+langchain-community
+pymysql
+python-dotenv
+sentence-transformers
+chromadb
+streamlit-option-menu
+Pillow
+altair==4.2.0
